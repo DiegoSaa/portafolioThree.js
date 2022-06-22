@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49927373.css",
+    "main.js": "/static/js/main.2a7c8c4e.js",
+    "static/media/portafolioScene.glb": "/static/media/portafolioScene.f7d4b548792449965fc6.glb",
+    "static/media/lights.hdr": "/static/media/lights.63e2d823edff5e15875a.hdr",
+    "static/media/teclado.glb": "/static/media/teclado.d0b7806fe14cff8a7b13.glb",
+    "index.html": "/index.html",
+    "main.49927373.css.map": "/static/css/main.49927373.css.map",
+    "main.2a7c8c4e.js.map": "/static/js/main.2a7c8c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49927373.css",
+    "static/js/main.2a7c8c4e.js"
+  ]
+}
